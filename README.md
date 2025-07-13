@@ -9,7 +9,7 @@ To get started with this project, follow these steps:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/theabdulraffay/Simple-Math-Agent.git
-   cd 'Simple Math Agent'
+   cd Simple-Math-Agent
    ```
 
 2. **Set up a virtual environment** (optional but recommended):
@@ -21,6 +21,10 @@ To get started with this project, follow these steps:
 3. **Install the required dependencies**:
    ```bash
    pip install langchain langchain-groq python-dotenv
+   ```
+   OR
+   ```bash
+   pip install -r requirements.txt
    ```
 
 4. **Create a `.env` file** in the root directory of the project and add your environment variables:

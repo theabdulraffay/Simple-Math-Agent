@@ -1,0 +1,4 @@
+langchain_core
+langchain
+dotenv
+langchain_groq
