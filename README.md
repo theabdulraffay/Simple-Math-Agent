@@ -87,4 +87,4 @@ The code sets up a simple math agent using LangChain. Here's a brief overview of
 
 ## Output Screenshot
 
-![Output Screenshot](img\ss.png)
+![Output Screenshot](./img/ss.png)
