@@ -8,8 +8,8 @@ To get started with this project, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/theabdulraffay/Simple-Math-Agent.git
+   cd 'Simple Math Agent'
    ```
 
 2. **Set up a virtual environment** (optional but recommended):
@@ -30,7 +30,7 @@ To get started with this project, follow these steps:
 
 5. **Run the script**:
    ```bash
-   python <script-name>.py
+   python agent.py
    ```
 
 ## Code Explanation
